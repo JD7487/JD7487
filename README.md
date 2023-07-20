@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JD7487
-- 👀 I’m interested in html, css, java, javascript, python
-- 🌱 I’m currently learning html, css, java, javascript, python
+- 👀 I’m interested in html, css, java, javascript, python, nextJS, typescript
+- 🌱 I’m currently learning html, css, java, javascript, python, nodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
